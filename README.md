@@ -1,6 +1,6 @@
 # 👋 Hola, soy Antonio
 
-Soy desarrollador y apasionado por el mundo de la **programación** y **C++**. He estudiado **C**, **C++**, **SQL**, **HTML**, **CSS**, **JavaScript**, **React**, **Redux**, **Node.js** y **Data Science**. Actualmente, estudio en **42 Barcelona**, he pasado por **Geekshubs** e **Inkor**, y trabajo en **IFP**, donde también doy clases de **Data Science**.
+Soy desarrollador y apasionado por el mundo de la **programación** y **C++**. He estudiado **Python**, **C**, **C++**, **SQL**, **HTML**, **CSS**, **JavaScript**, **React**, **Redux**, **Node.js** y **Data Science**. Actualmente, estudio en **42 Barcelona**, he pasado por **Geekshubs** e **Inkor**, y trabajo en **IFP**, donde también doy clases de **Data Science**.
 
 ## 🛠️ Tecnologías que uso
 
