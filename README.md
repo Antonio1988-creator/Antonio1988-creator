@@ -13,9 +13,13 @@ Soy desarrollador y apasionado por el mundo de la **programación** y **C++**. H
 ## 📂 Repositorios destacados
 
 🔹 [**minishell**](https://github.com/Antonio1988-creator/minishell) - Implementación de un shell en C similar a bash.  
+
 🔹 [**philosophers**](https://github.com/Antonio1988-creator/philosophers) - Simulación del problema de los filósofos comensales, utilizando hilos en C. 
+
 🔹 [**modules_cpp**](https://github.com/Antonio1988-creator/modules_cpp) - Una serie de ejercicios prácticos en C++ para aprender y afianzar conceptos fundamentales.  
+
 🔹 [**reto-final**](https://github.com/Antonio1988-creator/reto-final) - Un buscador de películas con una interfaz simple y funcional en CSS, HTML, JavaScript, React, Redux.
+
 🔹 [**Reto-3 (Fake Trello)**](https://github.com/Antonio1988-creator/Reto-3) - Simulación de un tablero estilo Trello en CSS, HTML, JavaScript, React, Redux.
 
 ## 📫 ¿Cómo contactarme?
